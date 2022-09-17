@@ -8,6 +8,8 @@
 - CSS positons
 - Background colour gradient
 ***
+***[Preview deployed project](https://restaurant-page-project2.netlify.app/)***
+***
 ### This project took me around **4 Hours** to complete
 ***
 
